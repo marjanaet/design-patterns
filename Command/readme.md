@@ -1,5 +1,7 @@
-The Command Pattern
+# The Command Pattern
+
 Encapsulates a request as an object
 thereby letting u
-_ parameterize other objects with different requests, queue or log requests
-_ And support undoable operations.
+
+- parameterize other objects with different requests, queue or log requests
+- And support undoable operations.
